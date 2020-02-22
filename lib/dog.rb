@@ -6,7 +6,7 @@ class Dog
     puts "Woof!"
 
     def sit
-      puts sit
+      
   end
 end
 
