@@ -12,5 +12,5 @@ end
 
 
 ada = Person.new
-person.talk
-person.walk
+ada.talk
+ada.walk
