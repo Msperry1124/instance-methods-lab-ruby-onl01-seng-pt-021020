@@ -4,6 +4,9 @@ class Dog
   # Instance Method Definition
   def bark
     puts "Woof!"
+
+    def sit
+      puts sit
   end
 end
 
