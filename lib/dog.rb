@@ -1,4 +1,5 @@
 class Dog
 end
 
-fido = Dog.new #=> #<Dog:0x007fc52c2cc588>
+fido = Dog.new 
+fido.object_id
